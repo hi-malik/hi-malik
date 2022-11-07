@@ -26,11 +26,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...**BlockChain**
-- 🌱 I’m currently learning ... **Web 3.0**
+- 🔭 I’m currently working on ...**iOS Development**
+- 🌱 I’m currently learning ... **Marketing & Branding**
 - 👯 I’m looking to collaborate on **YouTube**
 - 👊🤜 I always had a fight with me VS me 
-- 💬 Ask me about ... Android App Develpoment, Web Development, Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="38">
+- 💬 Ask me about ... iOS App Develpoment, Web Development, Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="38">
 - 📫 How to reach me: ... **jsm.28415@gmail.com**
 - ▶️ My YouTube channel: ... **hi_malik** 
 - ⚡ Fun fact: ... I love to solve problems. **I can do leetcode problems all day**
