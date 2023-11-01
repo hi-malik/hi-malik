@@ -26,7 +26,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...**iOS Development**
+- 🔭 I’m currently working on ...**Docker & Kubernetes**
 - 🌱 I’m currently learning ... **Marketing & Branding**
 - 👯 I’m looking to collaborate on **YouTube**
 - 👊🤜 I always had a fight with me VS me 
