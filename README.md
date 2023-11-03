@@ -5,7 +5,7 @@
 
 
 <h1 align="center">My <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"> EX, left me</h1>
-<h3 align="center">I'll gonna make her regret.</h3>
+<h3 align="center">I gave her everything which I could even afford for myself, Welcome to life</h3>
 
 <p align="center">
 <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center">Thought : "Hard work beats talent, when talent doesn't work Hard!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
